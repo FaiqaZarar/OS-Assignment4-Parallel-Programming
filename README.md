@@ -1,4 +1,4 @@
-# Hochleistungsrechnen Assignment 1 
+
 
 ##### Parallel Matrix Multiplication Using OpenMP, Phtreads, and MPI 
 
